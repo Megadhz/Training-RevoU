@@ -103,7 +103,7 @@ nav ul li a {
     background-color: #8a939f7e;
 }
 
-
+/*Main content*/
 .content {
     height: 90px;
     margin: auto;
@@ -116,6 +116,8 @@ nav ul li a {
     height: 888px;
 
 }
+
+/*Title*/
 .title {
     text-align: center;
 }
